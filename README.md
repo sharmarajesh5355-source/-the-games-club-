@@ -196,3 +196,4 @@ A web where people can play mini games in free times and enjoy and pass times in
     }
   </script></body>
 </html>
+A small simple gaming platform where you can play mini games in free time
